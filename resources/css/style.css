@@ -4,24 +4,20 @@ body {
     color: seashell;
     font-size: 16px;
     padding: 2rem;
-
-
 }
+
 h1 {
     font-size: 50px;
     color: white;
-    
 }
 
 h3 {
     color: black;
 }
 
-p {
-    
-}
-
-a { color: inherit; } 
+a { 
+    color: inherit;
+} 
 
 .center {
     text-align: center;
@@ -29,23 +25,19 @@ a { color: inherit; }
 
 .right {
     text-align: right;
-    
 }
 
 .video {
-     
     margin: 0 1 rem 0 0;
-
 }
 
 .campsite {
     max-width:100%;
     height:auto;
-
 }
+
 .phone {
     padding-top: 3rem;
-
     height: 3rem;
 }
 
@@ -61,10 +53,11 @@ a { color: inherit; }
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    
 }
 
-.button2 {border-radius: 4px;}
+.button2 {
+    border-radius: 4px;
+}
 
 .fa-download {
     color: #080705;
